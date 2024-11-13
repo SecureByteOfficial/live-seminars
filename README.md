@@ -8,8 +8,11 @@ Welcome to SecureByte's **Cybersecurity Career Roadmap Seminar**! This live semi
 **Event Date:** December 6, 2024 (Friday)  
 **Platform:** Live on SecureByte’s [YouTube Channel](https://www.youtube.com/@SecureByteOfficial)  
 
-## 📅 Countdown to the Seminar
+## 📅 Event Date & Time 
+
 Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
+**Event Date:** December 6, 2024 (Friday)  
+**Platform:** Live on SecureByte’s [YouTube Channel](https://www.youtube.com/@SecureByteOfficial)   
 
 <div id="countdown" style="font-size: 2em; color: #e63946;"></div>
 
