@@ -1,5 +1,8 @@
 # 🛡️ Cybersecurity Career Roadmap Seminar - From CSE Student to Cybersecurity Professional
 
+<div>
+<img src="https://raw.githubusercontent.com/SecureByteOfficial/live-seminars/main/sbdec6.png" 
+         alt="Seminar Banner" class="banner">
 <style>
 .banner {
     max-width: 100%;
@@ -10,10 +13,6 @@
     border-radius: 8px;
 }
 </style>
-
-<div>
-    <img src="https://raw.githubusercontent.com/SecureByteOfficial/live-seminars/main/sbdec6.png" 
-         alt="Seminar Banner" class="banner">
 </div>
 
 ## 🎉 About the Seminar
@@ -40,7 +39,7 @@ Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
 
 <script>
   // Countdown Timer
-  const countDownDate = new Date("December 5, 2024 00:00:00").getTime();
+  const countDownDate = new Date("December 6, 2024 00:00:00").getTime();
 
   // Update countdown every second
   const x = setInterval(function() {
