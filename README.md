@@ -1,142 +1,147 @@
-# 🛡️ Cybersecurity Career Roadmap Seminar - From CSE Student to Cybersecurity Professional
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cybersecurity Career Roadmap Seminar</title>
+  <style>
+    /* General Styles */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
+    }
 
-<style>
-.banner {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 20px auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
-}
-</style>
+    h1, h2, h3 {
+      color: #333;
+    }
 
-<div>
+    /* Responsive Banner */
+    .banner {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 20px auto;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      border-radius: 8px;
+    }
+
+    /* Countdown Timer */
+    #countdown {
+      text-align: center;
+      font-size: 2em;
+      font-weight: bold;
+      color: #e63946;
+      margin: 20px 0;
+    }
+
+    /* Responsive Speaker Section */
+    .speaker-section {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .speaker-image {
+      flex: 0 1 150px;
+      border-radius: 50%;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .speaker-details {
+      flex: 1;
+      text-align: left;
+      padding: 10px;
+    }
+
+    /* Buttons */
+    .btn {
+      display: inline-block;
+      background-color: #007bff;
+      color: white;
+      padding: 10px 20px;
+      margin: 10px 0;
+      text-decoration: none;
+      border-radius: 5px;
+      text-align: center;
+    }
+
+    .btn:hover {
+      background-color: #0056b3;
+    }
+
+    /* Responsive Media Queries */
+    @media (max-width: 768px) {
+      .speaker-section {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .speaker-image {
+        margin-bottom: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Seminar Banner -->
+  <div>
     <img src="https://raw.githubusercontent.com/SecureByteOfficial/live-seminars/main/sbdec6.png" 
          alt="Seminar Banner" class="banner">
-</div>
-
-## 🎉 About the Seminar
-Welcome to SecureByte's **Cybersecurity Career Roadmap Seminar**! This live seminar, scheduled for **Friday, December 6, 2024**, is designed specifically for **CSE students** eager to launch a career in cybersecurity. We will cover the essential roadmap to guide you from student to professional, highlighting skills, certifications, and career strategies critical for succeeding in this dynamic field. Don’t miss out on this opportunity to gain valuable insights from industry experts.
-
-**Event Date:** December 6, 2024 (Friday) 
-
-**Update:** All Update SecureByte’s [Twitterl](https://x.com/SecureByteORG)
-
-**Upload:** We Will Upload SecureByte’s [YouTube Channel](https://www.youtube.com/@SecureByteOfficial)  After Events 😊 
-
-## 📅 Event Date & Time 
-
-Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
-
-**Event Date:** December 6, 2024 (Friday)  
-**Event Time:** 08:00 PM (BDT) 
-
-**Platform:** VIP Sits [Google Meet](https://www.youtube.com/@SecureByteOfficial)   
-
-<div id="countdown" style="font-size: 2em; color: #e63946;"></div>
-
-<p> Days Left to Join </p> 
-
-<script>
-  // Countdown Timer
-  const countDownDate = new Date("December 5, 2024 00:00:00").getTime();
-
-  // Update countdown every second
-  const x = setInterval(function() {
-    const now = new Date().getTime();
-    const distance = countDownDate - now;
-    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((distance % (1000 * 60)) / (1000 * 60));
-    const seconds = Math.floor((distance % (1000)) / 1000);
-
-    document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
-
-    if (distance < 0) {
-      clearInterval(x);
-      document.getElementById("countdown").innerHTML = "The Cybersecurity Career Roadmap Seminar is Live Now!";
-    }
-  }, 1000);
-</script>
-
-
-<a href="https://forms.gle/s893kw39ZPswiZVb9" target="_blank">
-    <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
-</a> 
----
-
-## 🗂️ Table of Contents
-1. [What You Will Learn](#-what-you-will-learn)
-2. [Who Should Attend](#-who-should-attend)
-3. [Registration Details](#-registration-details)
-4. [Guest Speaker Profile](#-guest-speaker-profile)
-
-## 🎓 What You Will Learn
-In this seminar, we will cover:
-- **Career Pathways**: How to transition from CSE to cybersecurity.
-- **Skill Development**: Key technical and soft skills needed in cybersecurity.
-- **Certifications & Resources**: Recommended certifications and resources.
-- **Industry Insights**: Trends and challenges in the cybersecurity field.
-
-## 👥 Who Should Attend
-This seminar is perfect for:
-- **CSE students** curious about cybersecurity as a career path.
-- **Aspiring cybersecurity professionals** seeking a roadmap for career development.
-- **Individuals passionate about cybersecurity** who want to understand how to start in the industry.
-
-## 🔗 Registration Details
-Reserve your spot now to be a part of this informative session!  
-Click the button below to register.
-
-<div style="display: flex; gap: 15px;">
-    <a href="https://forms.gle/jzeNZ7dtLZ65A4Vw6">
-        <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
-    </a>
-</div>
-
-## 👨‍🏫 Guest Speaker Profile
-
-<div style="display: flex; align-items: center; gap: 20px; padding: 15px; background-color: #f8f9fa; border: 1px solid #e1e4e8; border-radius: 8px;">
-
-  <!-- Profile Image -->
-  <img src="https://pbs.twimg.com/profile_images/1844791721571602432/M4jiVjeE_400x400.jpg" alt="Naem Azam Chowdhury" width="150" style="border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  
-  <!-- Profile Text and Buttons -->
-  <div style="flex: 1;">
-    <h3 style="margin: 0; font-size: 1.5em;">Naem Azam Chowdhury</h3>
-    <p style="margin: 5px 0;"><strong>Position:</strong> Security Researcher, China</p>
-    <p style="margin: 5px 0;"><strong>Expertise:</strong> Cybersecurity, Ethical Hacking, AI, Web Development</p>
-
-   <p style="margin-top: 10px; line-height: 1.5;">
-      Naem Azam Chowdhury is a renowned cybersecurity expert leading innovative research and development in cybersecurity and AI. With a gold medal in Computer Science and an MS in Cybersecurity, Naem is dedicated to educating the next generation of cybersecurity professionals.
-   </p>
-
-   <p style="margin: 5px 0;"><strong>Achievements:</strong></p>
-   <ul style="margin-left: 20px;">
-      <li>Gold Medal in Computer Science</li>
-      <li>Gold Medalist at the Global AI Competition, China</li>
-      <li>Founder of initiatives aimed at increasing cybersecurity awareness and skills</li>
-   </ul>
-
-   <!-- Social Media Buttons -->
-   <div style="margin-top: 15px;">
-      <a href="https://www.youtube.com/@NaemAzamChowdhury" style="display: inline-block; background-color: #FF0000; color: white; padding: 8px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">
-        YouTube Channel
-      </a>
-      
-<a href="https://x.com/naemazamchow" style="display: inline-block; background-color: #1DA1F2; color: white; padding: 8px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-        Twitter
-      </a>
-   </div>
   </div>
-</div>
 
---- 
+  <!-- Countdown Section -->
+  <div id="countdown"></div>
+  <p style="text-align: center;">Days Left to Join</p>
 
-## 📢 Spread the Word
-Share this seminar with friends or colleagues interested in a cybersecurity career!  
+  <!-- Guest Speaker Section -->
+  <div class="speaker-section">
+    <img src="https://pbs.twimg.com/profile_images/1844791721571602432/M4jiVjeE_400x400.jpg" 
+         alt="Naem Azam Chowdhury" class="speaker-image">
+    <div class="speaker-details">
+      <h3>Naem Azam Chowdhury</h3>
+      <p><strong>Position:</strong> Security Researcher, China</p>
+      <p><strong>Expertise:</strong> Cybersecurity, Ethical Hacking, AI, Web Development</p>
+      <p>Naem Azam Chowdhury is a renowned cybersecurity expert leading innovative research and development in cybersecurity and AI. With a gold medal in Computer Science and an MS in Cybersecurity, Naem is dedicated to educating the next generation of cybersecurity professionals.</p>
+      <a href="https://www.youtube.com/@NaemAzamChowdhury" class="btn">YouTube Channel</a>
+      <a href="https://x.com/naemazamchow" class="btn" style="background-color: #1DA1F2;">Twitter</a>
+    </div>
+  </div>
 
-Hope to see you there!
+  <!-- Countdown Timer Script -->
+  <script>
+    const countDownDate = new Date("December 6, 2024 20:00:00").getTime();
 
----
+    // Update countdown every second
+    const x = setInterval(function() {
+      const now = new Date().getTime();
+      const distance = countDownDate - now;
+
+      // Calculate time left
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % 1000) / 1000);
+
+      // Display result
+      document.getElementById("countdown").innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+
+      // If the countdown is finished
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("countdown").innerHTML = "The Cybersecurity Career Roadmap Seminar is Live Now!";
+      }
+    }, 1000);
+  </script>
+
+</body>
+</html>
