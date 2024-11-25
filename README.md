@@ -37,10 +37,6 @@ Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
 <div id="countdown" style="font-size: 2em; color: #e63946;"></div>
 
 <p> Days Left to Join </p> 
-<a href="https://forms.gle/s893kw39ZPswiZVb9" target="_blank">
-    <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
-</a>
-
 
 <script>
   // Countdown Timer
@@ -64,6 +60,10 @@ Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
   }, 1000);
 </script>
 
+
+<a href="https://forms.gle/s893kw39ZPswiZVb9" target="_blank">
+    <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
+</a> 
 ---
 
 ## 🗂️ Table of Contents
