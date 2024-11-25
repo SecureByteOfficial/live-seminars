@@ -5,26 +5,32 @@
 ## 🎉 About the Seminar
 Welcome to SecureByte's **Cybersecurity Career Roadmap Seminar**! This live seminar, scheduled for **Friday, December 6, 2024**, is designed specifically for **CSE students** eager to launch a career in cybersecurity. We will cover the essential roadmap to guide you from student to professional, highlighting skills, certifications, and career strategies critical for succeeding in this dynamic field. Don’t miss out on this opportunity to gain valuable insights from industry experts.
 
-**Event Date:** December 6, 2024 (Friday)  
-**Platform:** Live on SecureByte’s [YouTube Channel](https://www.youtube.com/@SecureByteOfficial)  
+**Event Date:** December 6, 2024 (Friday) 
+
+**Update:** All Update SecureByte’s [Twitterl](https://x.com/SecureByteORG)
+
+**Upload:** We Will Upload SecureByte’s [YouTube Channel](https://www.youtube.com/@SecureByteOfficial)  After Events 😊 
 
 ## 📅 Event Date & Time 
 
 Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
 
 **Event Date:** December 6, 2024 (Friday)  
-**Platform:** Live on SecureByte’s [YouTube Channel](https://www.youtube.com/@SecureByteOfficial)   
+**Event Time:** 08:00 PM (BDT) 
+
+**Platform:** VIP Sits [Google Meet](https://www.youtube.com/@SecureByteOfficial)   
 
 <div id="countdown" style="font-size: 2em; color: #e63946;"></div>
 
-<p> Days Left to Join </p>
-<a href="https://forms.gle/jzeNZ7dtLZ65A4Vw6" target="_blank">
+<p> Days Left to Join </p> 
+<a href="https://forms.gle/s893kw39ZPswiZVb9" target="_blank">
     <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
 </a>
 
+
 <script>
   // Countdown Timer
-  const countDownDate = new Date("December 6, 2024 00:00:00").getTime();
+  const countDownDate = new Date("December 5, 2024 00:00:00").getTime();
 
   // Update countdown every second
   const x = setInterval(function() {
@@ -115,7 +121,7 @@ Click the button below to register.
 --- 
 
 ## 📢 Spread the Word
-Share this seminar with friends or colleagues who may be interested in a cybersecurity career!  
+Share this seminar with friends or colleagues interested in a cybersecurity career!  
 
 Hope to see you there!
 
