@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Career Roadmap Seminar - From CSE Student to Cybersecurity Professional
 
-![Seminar Banner](https://github.com/SecureByteOfficial/Cybersecurity-Seminar/blob/main/Cybersecurity_Seminar_Banner.jpg?raw=true)
+![Seminar Banner](https://github.com/SecureByteOfficial/live-seminars/blob/main/sbdec6.png)
 
 ## 🎉 About the Seminar
 Welcome to SecureByte's **Cybersecurity Career Roadmap Seminar**! This live seminar, scheduled for **Friday, December 6, 2024**, is designed specifically for **CSE students** eager to launch a career in cybersecurity. We will cover the essential roadmap to guide you from student to professional, highlighting skills, certifications, and career strategies critical for succeeding in this dynamic field. Don’t miss out on this opportunity to gain valuable insights from industry experts.
