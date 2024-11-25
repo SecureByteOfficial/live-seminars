@@ -89,7 +89,7 @@ Reserve your spot now to be a part of this informative session!
 Click the button below to register.
 
 <div style="display: flex; gap: 15px;">
-    <a href="https://forms.gle/jzeNZ7dtLZ65A4Vw6">
+    <a href="https://forms.gle/s893kw39ZPswiZVb9">
         <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
     </a>
 </div>
