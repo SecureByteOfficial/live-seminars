@@ -60,7 +60,7 @@ Stay tuned for the start of the **Cybersecurity Career Roadmap Seminar**!
 </script>
 
 
-<a href="https://forms.gle/s893kw39ZPswiZVb9" target="_blank">
+<a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
 </a> 
 ---
@@ -89,7 +89,7 @@ Reserve your spot now to be a part of this informative session!
 Click the button below to register.
 
 <div style="display: flex; gap: 15px;">
-    <a href="https://forms.gle/s893kw39ZPswiZVb9">
+    <a href="#">
         <img src="https://img.shields.io/badge/Register%20Now-007bff?style=for-the-badge&logo=register" alt="Register Now">
     </a>
 </div>
